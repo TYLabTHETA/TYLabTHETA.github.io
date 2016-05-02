@@ -1,0 +1,24 @@
+body{
+	font-size:16px;
+}
+.big-title{
+	font-weight: bold;
+	font-size: 32px;
+	padding: 20px;
+}
+.title{
+	font-weight: bold;
+	font-size: 23px;
+}
+.note{
+	color:red;
+}
+.Patent-content,
+.Other-Publications-content,
+.Other-Conference-Papers-content,
+.ACM-IEEE-Conference-Papers-content,
+.Other-Journal-Papers-content,
+.ACM-IEEE-content,
+.books-content{
+	padding:20px;
+}
